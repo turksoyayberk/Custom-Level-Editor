@@ -49,7 +49,7 @@ A **powerful and flexible level editor** designed for puzzle games, built as a U
 ## ⚙️ Usage
 
 1. Open the editor from `Tools → Custom Level Editor`
-2. Assign your `LevelEditorData` asset (including sprites and tile codes)
+2. Assign your `LevelEditorData` asset (including sprites and tile codes). **Make sure this asset is located in the `Resources` folder (e.g., `Assets/Resources/LevelEditorData.asset`).
 3. Set the grid size and level properties
 4. Use the tools to place tiles and goals
 5. Save or load levels as JSON files
