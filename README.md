@@ -1,5 +1,4 @@
-[[![Uploading level_editor_ss.png…]()](https://github.com/turksoyayberk/Custom-Level-Editor/blob/main/example_editor_screen.png)](https://raw.githubusercontent.com/turksoyayberk/Custom-Level-Editor/main/example_editor_screen.png
-)
+![Example Editor Screen](https://raw.githubusercontent.com/turksoyayberk/Custom-Level-Editor/main/example_editor_screen.png)
 
 # 🎮 Custom Level Editor for Unity
 
