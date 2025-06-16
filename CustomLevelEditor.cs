@@ -50,7 +50,7 @@ public class CustomLevelEditor : EditorWindow
     private const float Padding = 5f;
     private const int MaxUndoHistory = 10;
     private const string SavePath = "Assets/Data/Levels";
-    private const string TileDataPath = "Assets/Resources/TileSpritesData.asset";
+    private const string TileDataPath = "Assets/Resources/LevelEditorData.asset";
     private const string AllColorCode = "all";
     private const string RandomCode = "random";
 
